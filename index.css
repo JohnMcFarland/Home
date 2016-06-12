@@ -14,7 +14,7 @@ body {
     float: left;
 }
 #coolMenu > li {
-    float: center;
+    float: left;
 }
 #coolMenu li a {
 display: block;
