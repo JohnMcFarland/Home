@@ -41,6 +41,7 @@ display: block;
     font-family: Arial;
     font-size: 12px;
     background: #2f8be8;
+    float: left;
 }
 #coolMenu > li > a {
     color: #fff;
