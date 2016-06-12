@@ -5,3 +5,9 @@ body {
 .banner{
     text-align: center;
 }
+
+#dropDown {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
