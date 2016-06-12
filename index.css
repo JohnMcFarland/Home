@@ -6,7 +6,7 @@ body {
     text-align: center;
 }
 
-#dropDown {
+.dropDown {
     list-style-type: none;
     margin: 0;
     padding: 0;
