@@ -11,10 +11,10 @@ body {
     list-style: none;
 }
 #coolMenu {
-    float: left;
+    float: center;
 }
 #coolMenu > li {
-    float: left;
+    float: center;
 }
 #coolMenu li a {
 display: block;
