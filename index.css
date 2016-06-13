@@ -7,11 +7,25 @@ body {
 }
 
 .dropDown {
+    position: fixed;
     list-style-type: none;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
 }
 
+.navcontainer{
+  width: 33.3% ;
+  margin-left: auto ;
+  margin-right: auto;
+
+}
+
 li {
-    display: inline;
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
 }
