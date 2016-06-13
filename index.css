@@ -7,16 +7,29 @@ body {
 }
 
 .dropDown {
-    position: fixed;
+    /*position: float;*/
     list-style-type: none;
-    margin: 0 auto;
-    padding: 0;
+    /*padding: 0;*/
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 .navcontainer{
-  width: 33.3% ;
+  float: none;
+  /*width:50% ;
   margin-left: auto ;
-  margin-right: auto;
+  margin-right: auto;*/
+  border: 1px solid black;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.homepic{
+  border-radius: 50px;
+  border: 2px solid #000000;
+  /*padding: 20px;*/
+  width: 200px;
+  height: 150px;
 
 }
 
