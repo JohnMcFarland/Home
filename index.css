@@ -1,10 +1,15 @@
 body {
-    background-color: #E7F27A; /*YELLOW*/
+    background-color: #97A7E1;
+    font-variant: small-caps;
 
 }
 
 .banner{
     text-align: center;
+}
+
+.contact{
+  font-weight: bold;
 }
 
 .dropDown {
@@ -42,3 +47,19 @@ a {
     background-color: #dddddd;
     border: 2px solid #000000;
 }
+
+
+#content {
+  overflow:auto;
+  width: 700px;
+  height: 230px;
+}
+
+#left, #right {
+  display: inline-block;
+    width: 45%;
+    height: 100%;
+}
+
+#left  { float:left;  }
+#right { float:right; }
